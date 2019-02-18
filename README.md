@@ -1,4 +1,4 @@
-## Welcome to GitHub 
+# Welcome to Lumuha's Kaledi!
 
 You can use the [editor on GitHub](https://github.com/Lumuha/lumuha.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
